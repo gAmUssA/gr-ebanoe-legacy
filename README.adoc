@@ -1,6 +1,6 @@
 = Кусок (гр)ёбаного легаси за сотни нефти
 
-image::images/vik.jpeg[height=30%]
+image::images/vik.jpeg[height=40%, width=40%]
 
 == Что это?
 
